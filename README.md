@@ -192,5 +192,4 @@ And the rest of model for develop is:
 
 For More Documentation:
 - https://documenter.getpostman.com/view/30300359/2s9YkgEm9X
-- https://documenter.getpostman.com/view/30300359/2s9Ykn8hEU
 
