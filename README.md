@@ -1,5 +1,5 @@
 # Cloud Computing Path
-Create REST API and deploying to Google Cloud Platform using [Cloud Function]. Creating databse using [Compute Engine] and storing images using [Cloud Storage]
+Create REST API and deploying to Google Cloud Platform using [Cloud Function]. Creating database using [Compute Engine] and storing images using [Cloud Storage]
 The CC team consist of:
 - Andi Muhammad Ichsan Jalaluddin (C183BSY3323)
 - Andi Muhammad Yanwar (C008BSY4057)
